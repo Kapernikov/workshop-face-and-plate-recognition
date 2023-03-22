@@ -1,2 +1,7 @@
 onnxruntime~=1.14.1
 opencv-python~=4.7.0
+torch==2
+torchvision
+fastai
+torchtext
+torchaudio
